@@ -16,4 +16,5 @@ Niet het beveiligt je niet
 
 ## Welke data zou gestolen kunnen worden wanneer een hacker toegang krijgt tot dit protocol?
 
-Alle data kan worden genomen van een persoon of de web zelf door een hacker.
+
+Alle data kan genomen worden van een persoon of de web zelf door een hacker.
